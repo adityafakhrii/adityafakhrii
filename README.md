@@ -29,8 +29,8 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my Personal Social Media</li>
-            <li> 💬 Ask me about React Ask me about anything related to Android & Web Developer</li>
-            <li> 🎓 I'm currently learning Android Development with Kotlin </li>
+            <li> 💬 Ask me about about anything related to Android & Web Developer</li>
+            <li> 🎓 I'm currently learning Android Development with Kotlin & Front-end Development with JavaScript & ReactJs</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:adityafakhri03@gmail.com" target="_blank">adityafakhri03@gmail.com</a></li>
